@@ -1,0 +1,19 @@
+******* EXPLICAÇÃO DO REPOSITÓRO *******
+
+Pessoal, durante os testes eu consegui realizar de duas formas, a primeira delas no inicio da aprendizagem foi criando arquivos separados, então criei 5 arquivos referente a cada caso de teste, os arquivos estão separados no diretório com a extensão .JAVA os arquivos com a palavra "error" no final são os testes que falharam. 
+
+A segunda forma foi conseguir fazer um teste unificado, fiz um teste completo colocando todos os casos de testes em um só. O arquivo com este teste esta nomeado como "TestaLivrosUnico.java"(este é o melhor para visualização) 
+
+Além disso deixei dois arquivos .HTML eles são os arquivos salvos do IDE, Katalon.
+
+O arquivo "TESTE ACEITAÇÃO FINAL.HTML" é o projeto com os arquivos todos separados, o arquivo "testeaceitaçãofinal.html" é o arquivo com o projeto todo unificado.
+
+Para visualiza-los basta importa-los no IDE, Katalon.
+
+deixei também um arquivo .PDF com o nome "Relatoriodeestudos.pdf" com o relatório de estudos que eu fiz durante estes dias focado nos testes, gostaria muito que dessem uma lida. 
+
+Obrigado!
+
+
+
+
